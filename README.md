@@ -50,3 +50,27 @@ SELECT
 FROM coffee_shop_sales
 GROUP BY MONTH(transaction_date)
 ORDER BY MONTH(transaction_date);
+
+📈 Insights
+
+May recorded higher sales compared to April, showing positive MoM growth.
+
+Weekends outperform weekdays in terms of sales volume.
+
+Coffee dominates as the top product category.
+
+Morning hours (8–10 AM) drive peak sales, highlighting customer behavior patterns.
+
+Store location analysis shows downtown outlets as top performers.
+
+📑 License
+
+This project is licensed under the MIT License – see the LICENSE
+ file for details.
+You are free to use the queries, visuals, and documentation with proper attribution.
+
+👤 Author
+
+Aman Kumar
+📧 a.m.a.n.shreewastav11@gmail.com
+💼 https://www.linkedin.com/in/aman-kumar-shrivastav
