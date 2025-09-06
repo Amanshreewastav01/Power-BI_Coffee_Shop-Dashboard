@@ -32,10 +32,8 @@ It demonstrates end-to-end skills: SQL data transformation, KPI calculations, an
 
 ## 📊 Dashboard Preview
 ### Main Dashboard  
-![Dashboard](screenshots/Dashboard.png)
-
-### Background & Layout  
-![Background](screenshots/Background%20Image.png)
+![Dashboard](<img width="805" height="490" alt="Dashboard" src="https://github.com/user-attachments/assets/6f74af1f-a568-40bc-b261-4229daec2fa7" />
+) 
 
 ---
 
