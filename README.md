@@ -68,7 +68,7 @@ Store location analysis shows downtown outlets as top performers.
 
 📑 License
 
-This project is licensed under the MIT License – see the LICENSE
+This project is licensed under the MIT License – see the [LICENSE](url)
  file for details.
 You are free to use the queries, visuals, and documentation with proper attribution.
 
@@ -77,4 +77,3 @@ You are free to use the queries, visuals, and documentation with proper attribut
 Aman Kumar
 📧 a.m.a.n.shreewastav11@gmail.com
 💼 https://www.linkedin.com/in/aman-kumar-shrivastav
-
