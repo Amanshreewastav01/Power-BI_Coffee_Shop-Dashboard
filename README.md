@@ -51,6 +51,9 @@ FROM coffee_shop_sales
 GROUP BY MONTH(transaction_date)
 ORDER BY MONTH(transaction_date);
 
+```
+---
+
 📈 Insights
 
 May recorded higher sales compared to April, showing positive MoM growth.
